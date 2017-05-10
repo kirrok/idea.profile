@@ -1,4 +1,9 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+  <action id="Console.Jdbc.Close" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
