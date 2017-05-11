@@ -2,7 +2,8 @@
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="FONT_SCALE" value="1.25" />
+    <option name="FONT_SIZE" value="15" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="MAX_LOOKUP_WIDTH2" value="556" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1061" />
   </component>
 </application>
