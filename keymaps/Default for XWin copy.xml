@@ -14,6 +14,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl alt back_slash" />
+  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl alt g" />
   </action>
